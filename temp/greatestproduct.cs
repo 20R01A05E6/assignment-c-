@@ -1,4 +1,4 @@
-﻿class temp
+﻿class greatestproduct
 {
     public static void Main(string[] args)
     {
@@ -31,4 +31,3 @@
         return product;
     }
 }
-
